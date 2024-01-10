@@ -1,4 +1,5 @@
-{
+{  
+  "main" : "index.js",
   "scripts": {
     "start": "node index.js"
  },
@@ -10,5 +11,4 @@
     "mongoose": "^7.4.1"
   }
 }
-
 
